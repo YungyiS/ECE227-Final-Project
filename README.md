@@ -6,7 +6,9 @@ grid_setting.py is the file used to define plotting parameters.
 
 model.py is our model defintion and simulation class.
 ## Simulation Results
-The folder ./simulation_results will house the results pages
+The folder ./simulation_results will house the results pages in gif format.
+![0.7](./simulation_results/model_race_200_200_0.7_0_0.5_0.5_0606_1648.gif)
+![0.7](./simulation_results/model_income_200_200_0.7_0_0.5_0.5_20250606_1648.gif)
 ### File naming format
 There are 4 outputs from our simulation:
 
